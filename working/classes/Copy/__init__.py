@@ -1,1 +1,1 @@
-from main import Copy
+from .main import Copy
